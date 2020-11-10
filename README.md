@@ -9,7 +9,7 @@
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn
 
 ## Datos
-** Datos obtenidos de: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+**Datos obtenidos de:** https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
 ## Limpieza de datos
 
