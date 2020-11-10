@@ -5,7 +5,7 @@
 * Predicciones realizadas bajo tres modelos: Regresion multiple, Random Forest con GridsearchCV y K-nearest neighbors
 
 ## Codigo y librerias usadas
-**Python Version:** 3.7  
+**Python Version:** 3.8  
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn
 
 ## Datos
