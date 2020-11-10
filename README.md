@@ -5,8 +5,8 @@
 * Predicciones realizadas bajo tres modelos: Regresion multiple, Random Forest con GridsearchCV y K-nearest neighbors
 
 ## Codigo y librerias usadas
-**Python Version:** 3.8  
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn
+**Version Python:** 3.8  
+**Librerias:** pandas, numpy, sklearn, matplotlib, seaborn
 
 ## Datos
 **Datos obtenidos de:** https://www.kaggle.com/austinreese/craigslist-carstrucks-data
