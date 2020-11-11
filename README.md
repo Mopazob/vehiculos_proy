@@ -5,7 +5,7 @@
 * Predictions by three models: Multiple Regression, Random Forest and K-nearest Neighbors Regression.
 
 ## Code and Libraries Used
-**Anaconda environment**
+**Environment:** Anaconda
 **Version Python:** 3.8  
 **Libraries:** pandas, numpy, sklearn, matplotlib, seaborn
 
