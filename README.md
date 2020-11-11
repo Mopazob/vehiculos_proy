@@ -27,6 +27,9 @@ The data had so many NaN values and inconsistencies, so i made the following cha
 * Created an vehicle age, miles per year and price per mile columns 
 
 ## EDA
+I looked at the distributions of the data and some graphics for the variables.
+![](https://github.com/Mopazob/vehiculos_proy/blob/main/images/2.png)
+
 
 ## Model Building
 
