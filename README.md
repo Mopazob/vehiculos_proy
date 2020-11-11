@@ -28,7 +28,11 @@ The data had so many NaN values and inconsistencies, so i made the following cha
 
 ## EDA
 I looked at the distributions of the data and some graphics for the variables.
+
+![](https://github.com/Mopazob/vehiculos_proy/blob/main/images/1.png)
 ![](https://github.com/Mopazob/vehiculos_proy/blob/main/images/2.png)
+![](https://github.com/Mopazob/vehiculos_proy/blob/main/images/year.price.fuel.png)
+
 
 
 ## Model Building
