@@ -1,15 +1,16 @@
-# Proyecto vehiculos: Resumen
-* Proyecto estimador de valores de vehículos usados. Con un MAE ~ 
-* Primer proyecto realizado.
-* Data utilizada proveniente de plataforma Kaggle.
-* Predicciones realizadas bajo tres modelos: Regresion multiple, Random Forest con GridsearchCV y K-nearest neighbors
+# Vehicles value estimator project: Overview
+* This is my first project :D
+* Estimates the vehicles prices in USA with MAE~ .
+* Data from Kaggle platform.
+* Predictions by three models: Multiple Regression, Random Forest and K-nearest Neighbors Regression.
 
-## Codigo y librerias usadas
+## Code and Libraries Used
+**Anaconda environment**
 **Version Python:** 3.8  
-**Librerias:** pandas, numpy, sklearn, matplotlib, seaborn
+**Libraries:** pandas, numpy, sklearn, matplotlib, seaborn
 
-## Datos
-**Datos obtenidos de:** https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+## Data
+**Datos from:** https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
 ## Limpieza de datos
 
