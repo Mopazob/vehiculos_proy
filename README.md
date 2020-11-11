@@ -1,4 +1,4 @@
-# Vehicles value estimator project: Overview
+# Vehicles price estimator project: Overview
 * This is my first project :D
 * Estimates the vehicles prices in USA with MAE~ .
 * Data from Kaggle platform.
