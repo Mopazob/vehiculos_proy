@@ -6,7 +6,6 @@
 
 ## Code and Libraries Used
 **Environment:** Anaconda
-
 **Version Python:** 3.8  
 **Libraries:** pandas, numpy, sklearn, matplotlib, seaborn
 
