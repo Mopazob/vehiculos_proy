@@ -56,6 +56,8 @@ Random Forest models outperformed the results of the other models. Here the MAE 
 3. The data was very unclean so maybe with other data cleaning and manipulation the results might be better
 4. A project worked up only with the type "Cars" will throw other results, since in this project i worked with all the type of vehicles
 
+![](https://github.com/Mopazob/vehiculos_proy/blob/main/images/mae%20per%20model.png)
+
 Thank you for reading. Sorry if some results are not expected, or some manipulation are incorrect, but this is my first project and i hope to keep improving in the next projects.
 
 MOB. <3
