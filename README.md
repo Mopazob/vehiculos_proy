@@ -6,7 +6,9 @@
 
 ## Data, Code and Libraries Used
 **Data from:** https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+
 **Python Version**: 3.8
+
 **Libraries:** pandas, numpy, sklearn, matplotlib, seaborn
 
 ## Data Cleaning
