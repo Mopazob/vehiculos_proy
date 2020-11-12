@@ -47,7 +47,7 @@ Random Forest models outperformed the results of the other models. Here the MAE 
 * Multiple Regression 1: 5465.97
 * Multiple Regression 2: 4518.36
 * KNN Regression: 8332.87
-* Random Forest *overfited*: 2148.20
+* Random Forest *overfitted*: 2148.20
 * Random Forest (best model): 2479.35
 
 ## Conclusions
