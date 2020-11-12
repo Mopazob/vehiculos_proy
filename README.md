@@ -1,6 +1,6 @@
 # Vehicles price estimator project: Overview
 * This is my first project :D
-* Estimates the vehicles prices in USA with MAE~ .
+* Estimates the vehicles prices in USA with MAE ~ 2.5k 
 * Data from Kaggle platform.
 * Predictions by three models: Multiple Regression, Random Forest and K-nearest Neighbors Regression.
 
@@ -36,5 +36,26 @@ I looked at the distributions of the data and some graphics for the variables.
 
 
 ## Model Building
+* First, split the data into train and tests sets with a test size of 30% for a **Multiple Regression** only with the numerical variables
+* Then turn categorical variables into dummy variables for a **second multiple regression**
+* Next try a **KNN Regression**, looked for the best K for this model
+* Try two types of **RandomForest**, the first with a super high R2, probably overfitted, then try to minimize the overvit tunning some parameters for a second RF
 
-## Model Performance and Conclusions
+## Model Performance
+Random Forest models outperformed the results of the other models. Here the MAE of each model:
+
+* Multiple Regression 1: 5465.97
+* Multiple Regression 2: 4518.36
+* KNN Regression: 8332.87
+* Random Forest *overtited*: 2148.20
+* Random Forest (best model): 2479.35
+
+## Conclusions
+1. RandomForest clearly perform the best predictions of all with an R2 = 87%, RMSE ~ 4k and a MAE ~ 2.5k
+2. Probably an GridSearch will drop better results since improves the parameters of the regression
+3. The data was very unclean so maybe with other data cleaning and manipulation the results might be better
+4. A project worked up only with the type "Cars" will throw other results, since in this project i worked with all the type of vehicles
+
+Thank you for reading. Sorry if some results are not expected, or some manipulation are incorrect, but this is my first project and i hope to keep improving in the next projects.
+
+MOB. <3
