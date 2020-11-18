@@ -1,7 +1,7 @@
 # Vehicles price estimator project: Overview
-* This is my first project :D
-* Estimates the vehicles prices in USA with MAE ~ 2.5k 
-* Data from Kaggle platform.
+* Creates a model that estimates the vehicles prices in USA with MAE ~ $ 2.5k to help people to negotiate the price of some vehicle. 
+* Used data from Kaggle platform.
+* Cleaned, explained, visualize the data and then model building for predict price.
 * Predictions by three models: Multiple Regression, Random Forest and K-nearest Neighbors Regression.
 
 ## Data, Code and Libraries Used
