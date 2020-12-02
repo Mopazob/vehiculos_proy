@@ -5,11 +5,9 @@
 * Predictions by three models: Multiple Regression, Random Forest and K-nearest Neighbors Regression.
 
 ## Data, Code and Libraries Used
-**Data from:** https://www.kaggle.com/austinreese/craigslist-carstrucks-data
-
-**Python Version**: 3.8
-
-**Libraries:** pandas, numpy, sklearn, matplotlib, seaborn
+* **Data from:** https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+* **Python Version**: 3.8
+* **Libraries:** pandas, numpy, sklearn, matplotlib, seaborn
 
 ## Data Cleaning
 The data had so many NaN values and inconsistencies, so i made the following changes:
